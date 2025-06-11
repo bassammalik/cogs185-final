@@ -1,0 +1,45 @@
+{
+  "lstm": {
+    "temp_0.5": {
+      "length": 599,
+      "unique_chars": 67,
+      "avg_word_length": 4.5092592592592595,
+      "time_taken": 2.2322230339050293,
+      "text": "Vocabulary size: 65\nCharacters: \n !$&',-.3:;?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz\nRence,\nAnd a most of my curse to the bosom or counters,\nAnd be the news no book to her nothing stand.\n\nGLOUCESTER:\nO well-a dear son so day so stands,\nThat you will say not her bear you, sweet grief,\nAnd all this marriage of the heads to the world,\nTo see it my death of my sight, and the law a straight,\nYou on the man of the seat out the touch against the matter,\nAnd so death lords, the children to death.\n\nDUKE VINCENTIO:\nWhat as for the looks have desperate it all.\n\nGRUMIO:\nAy, what is for the s"
+    },
+    "temp_0.8": {
+      "length": 599,
+      "unique_chars": 67,
+      "avg_word_length": 5.071428571428571,
+      "time_taken": 1.3992979526519775,
+      "text": "Vocabulary size: 65\nCharacters: \n !$&',-.3:;?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz\nHer-body.\n\nROMEO:\nAnd, mine than the bosoms received\nTo tell me his shown you have been to queen\nAnd course to Corioli be-right be\nA sons, as this laments, you will say not: he be were\nthe queen is I great hath friends.\n\nFirst Servingman:\nThe measure with such gentle honour so out that leave\nWhat speak, for one is my lordship is met;\nAs his malberance come: and to infocker that waters.\n\nJULIET:\nAnd desires the friends, as we'll see, take\nAs such a tell and which every sorrows\nStrength refuirer th"
+    },
+    "temp_1.2": {
+      "length": 599,
+      "unique_chars": 67,
+      "avg_word_length": 5.397849462365591,
+      "time_taken": 1.3824660778045654,
+      "text": "Vocabulary size: 65\nCharacters: \n !$&',-.3:;?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz\nMent\nTo were moan, and cousin; stosfers-nextres upon you great think:\nGone, but Tunined to queen poor dared more solew\nMadam: these as do you heavens here, you wish you:\nPeace, by while, sweet Henry, guess is? Sormy mote?\nUnweep their false, it shephing shiy:\nWill I should have he that lely we have leisure itself;\nAnd or knee sweet droap touch, and sleep's:\nHis talina-son, Paul's time.\n\nJULIET:\nAnd desires that where are fulls.\n\nKING EDWARD IV:\nWhitelen of which, come it off--\n\nCLAUDIO:\nI pray th"
+    }
+  },
+  "gru": {
+    "temp_0.5": {
+      "length": 599,
+      "unique_chars": 67,
+      "avg_word_length": 4.173913043478261,
+      "text": "Vocabulary size: 65\nCharacters: \n !$&',-.3:;?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz\nRe come to a cound are of what souse by framres to be to grace this a tone of my couned to querst of course to Core to be a frair\n\nANTONI:\nNore that a but in the sould?\n\nBAPTIANA:\nThou will have thou him arisond of the frame that will have now dore\nTo we will four sound are sower of mare a sound,\nAnd if for of from the fromen to me droabher muster,\nAnd that a trouting of fray lord of frace of sim,\nWhat her that what a base the are to a prayers of the hand of thou chere to graterfe a fray core to "
+    },
+    "temp_0.8": {
+      "length": 599,
+      "unique_chars": 67,
+      "avg_word_length": 4.776699029126213,
+      "text": "Vocabulary size: 65\nCharacters: \n !$&',-.3:;?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz\nHere fore of moaughter;\nWhat a some massith reciued to is recile, and to chun of un\nBeay thing stay come of to Core twere a fraspite some inst Vian am buse up\nThese fanh of if inby andruss will enty ague all of fray more?\nMy were will fallon my there with sinmoge to shome.\n\nWAMTIANO:\nWhat I war, I' with of to doerse of throught?\n\nSuchsand Gume:\nWhat let tay a hat biif-sone to kneatem, Nour of some plawe so than what aae\nsee to as frart prase sournet.\n\nQUEEN ETABIOZ:\nWhich what to bay srofcireour-"
+    },
+    "temp_1.2": {
+      "length": 599,
+      "unique_chars": 67,
+      "avg_word_length": 6.168674698795181,
+      "text": "Vocabulary size: 65\nCharacters: \n !$&',-.3:;?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz\nMe owfe w3rate, us Shelcou hear to frisse core: ueon you greublell;\nHereny bo stouninedelt Have;\nAny crarou  ome are were-rich: bite some,\nOs this osf busfeupse tsmich? not: hut by ay\nOuss lius entyll'd warisordfrmk morecamh:\nHanD sha fomote woe herof!\n\nCADECTYY:\nHI shouuru sosour thou lell we whis?\nWith froostferselfeoosk to ssemeud\ntabh' u!\nWhaeah lectta: ay roabiif-A none bly-atemreN\nJrgosisimcepy.\nTheb than Henrhas as wars.\nA ftaraip, serse andt.\n\nROLCALIO:\nI comtuitrow;---to bay srofcireot a"
+    }
+  }
+}
